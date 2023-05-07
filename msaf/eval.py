@@ -363,7 +363,7 @@ def process(in_path, boundaries_id=msaf.config.default_bound_id,
         logging.warning("Results already exists, reading from file %s" %
                         out_file)
         results = pd.read_csv(out_file)
-        print_results(results)
+        # print_results(results)
         return results
 
     # Perform actual evaluations
