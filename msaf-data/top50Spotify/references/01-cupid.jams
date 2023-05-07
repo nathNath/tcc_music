@@ -1,0 +1,97 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "Guga Queiroga",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Guga Queiroga",
+          "email": ""
+        },
+        "version": "1.0",
+        "corpus": "Top50Spotify",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 9.0,
+          "value": "Intro",
+          "confidence": null
+        },
+        {
+          "time": 9.0,
+          "duration": 16.0,
+          "value": "Verse A",
+          "confidence": null
+        },
+        {
+          "time": 25.0,
+          "duration": 14.0,
+          "value": "Verse B",
+          "confidence": null
+        },
+        {
+          "time": 39.0,
+          "duration": 18.0,
+          "value": "Chorus",
+          "confidence": null
+        },
+        {
+          "time": 57.0,
+          "duration": 15.0,
+          "value": "Verse A'",
+          "confidence": null
+        },
+        {
+          "time": 72.0,
+          "duration": 15.0,
+          "value": "Verse B'",
+          "confidence": null
+        },
+        {
+          "time": 87.0,
+          "duration": 18.0,
+          "value": "Chorus",
+          "confidence": null
+        },
+        {
+          "time": 105.0,
+          "duration": 16.0,
+          "value": "Interlude",
+          "confidence": null
+        },
+        {
+          "time": 121.0,
+          "duration": 16.0,
+          "value": "Verse C",
+          "confidence": null
+        },
+        {
+          "time": 137.0,
+          "duration": 16.0,
+          "value": "Chorus",
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "01-cupid.csv",
+    "artist": "Various",
+    "release": "",
+    "duration": 174.31219954648526,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}

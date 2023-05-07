@@ -1,0 +1,109 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "Guga Queiroga",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Guga Queiroga",
+          "email": ""
+        },
+        "version": "1.0",
+        "corpus": "Top50Spotify",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 10.0,
+          "value": "Intro",
+          "confidence": null
+        },
+        {
+          "time": 10.0,
+          "duration": 12.0,
+          "value": "Verse A",
+          "confidence": null
+        },
+        {
+          "time": 22.0,
+          "duration": 11.0,
+          "value": "Verse B",
+          "confidence": null
+        },
+        {
+          "time": 33.0,
+          "duration": 23.0,
+          "value": "Chorus",
+          "confidence": null
+        },
+        {
+          "time": 56.0,
+          "duration": 22.0,
+          "value": "Verse C",
+          "confidence": null
+        },
+        {
+          "time": 78.0,
+          "duration": 13.0,
+          "value": "Verse A'",
+          "confidence": null
+        },
+        {
+          "time": 91.0,
+          "duration": 12.0,
+          "value": "Chorus",
+          "confidence": null
+        },
+        {
+          "time": 103.0,
+          "duration": 11.0,
+          "value": "Repeat Chorus",
+          "confidence": null
+        },
+        {
+          "time": 114.0,
+          "duration": 55.0,
+          "value": "Verse C'",
+          "confidence": null
+        },
+        {
+          "time": 169.0,
+          "duration": 11.0,
+          "value": "Verse D",
+          "confidence": null
+        },
+        {
+          "time": 180.0,
+          "duration": 3.0,
+          "value": "Verse B'",
+          "confidence": null
+        },
+        {
+          "time": 183.0,
+          "duration": 30.0,
+          "value": "Chorus'",
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "04-la-bebe.csv",
+    "artist": "Various",
+    "release": "",
+    "duration": 180.0,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}

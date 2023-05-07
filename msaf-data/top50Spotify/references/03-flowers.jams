@@ -1,0 +1,103 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "Guga Queiroga",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Guga Queiroga",
+          "email": ""
+        },
+        "version": "1.0",
+        "corpus": "Top50Spotify",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 7.0,
+          "value": "Intro",
+          "confidence": null
+        },
+        {
+          "time": 7.0,
+          "duration": 17.0,
+          "value": "Verse A",
+          "confidence": null
+        },
+        {
+          "time": 24.0,
+          "duration": 9.0,
+          "value": "Verse B",
+          "confidence": null
+        },
+        {
+          "time": 33.0,
+          "duration": 28.0,
+          "value": "Chorus",
+          "confidence": null
+        },
+        {
+          "time": 61.0,
+          "duration": 8.0,
+          "value": "Verse C (Post Chorus)",
+          "confidence": null
+        },
+        {
+          "time": 69.0,
+          "duration": 16.0,
+          "value": "Verse A'",
+          "confidence": null
+        },
+        {
+          "time": 85.0,
+          "duration": 9.0,
+          "value": "Verse B'",
+          "confidence": null
+        },
+        {
+          "time": 94.0,
+          "duration": 28.0,
+          "value": "Chorus",
+          "confidence": null
+        },
+        {
+          "time": 122.0,
+          "duration": 16.0,
+          "value": "Verse C (Post Chorus)",
+          "confidence": null
+        },
+        {
+          "time": 138.0,
+          "duration": 10.0,
+          "value": "Verse B''",
+          "confidence": null
+        },
+        {
+          "time": 148.0,
+          "duration": 31.0,
+          "value": "Chorus'",
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "03-flowers.csv",
+    "artist": "Various",
+    "release": "",
+    "duration": 180.0,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}

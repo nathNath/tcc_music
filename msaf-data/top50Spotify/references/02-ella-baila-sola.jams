@@ -1,0 +1,79 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "Guga Queiroga",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Guga Queiroga",
+          "email": ""
+        },
+        "version": "1.0",
+        "corpus": "Top50Spotify",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 24.0,
+          "value": "Intro",
+          "confidence": null
+        },
+        {
+          "time": 24.0,
+          "duration": 30.0,
+          "value": "Verse",
+          "confidence": null
+        },
+        {
+          "time": 54.0,
+          "duration": 19.0,
+          "value": "Chorus",
+          "confidence": null
+        },
+        {
+          "time": 73.0,
+          "duration": 19.0,
+          "value": "Brass Solo",
+          "confidence": null
+        },
+        {
+          "time": 92.0,
+          "duration": 20.0,
+          "value": "Verse'",
+          "confidence": null
+        },
+        {
+          "time": 112.0,
+          "duration": 19.0,
+          "value": "Chorus",
+          "confidence": null
+        },
+        {
+          "time": 131.0,
+          "duration": 10.0,
+          "value": "Guitar Solo",
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "02-ella-baila-sola.csv",
+    "artist": "Various",
+    "release": "",
+    "duration": 165.7208163265306,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}
