@@ -3,7 +3,7 @@ from __future__ import print_function
 import msaf
 
 # 1. Select audio file
-audio_file = "C:/Users/Nath/OneDrive/Área de Trabalho/tcc/msaf-data/msaf-data-26d2361b6d4e8d17082fece54158e261a1bbb818/Sargon/audio/01-Sargon-Mindless.mp3"
+audio_file = "C:/Users/Nath/OneDrive/Área de Trabalho/tcc/msaf-data/msaf-data-extracted/Sargon/audio/01.mp3"
 
 # 2. Segment the file using the default MSAF parameters (this might take a few seconds)
 boundaries, labels = msaf.process(audio_file)
