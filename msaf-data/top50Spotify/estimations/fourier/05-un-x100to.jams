@@ -1,0 +1,97 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "0.1.70",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "MSAF"
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.2786394557823129,
+          "value": "E",
+          "confidence": null
+        },
+        {
+          "time": 0.2786394557823129,
+          "duration": 10.913378684807256,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 11.19201814058957,
+          "duration": 17.136326530612244,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 28.328344671201815,
+          "duration": 65.57315192743764,
+          "value": "A",
+          "confidence": null
+        },
+        {
+          "time": 93.90149659863945,
+          "duration": 26.7958276643991,
+          "value": "C",
+          "confidence": null
+        },
+        {
+          "time": 120.69732426303855,
+          "duration": 59.257324263038555,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 179.9546485260771,
+          "duration": 0.04535147392289218,
+          "value": "E",
+          "confidence": null
+        }
+      ],
+      "sandbox": {
+        "boundaries_id": "sf",
+        "labels_id": "fmc2d",
+        "timestamp": "2023/05/20 23:38:49",
+        "annot_beats": false,
+        "feature": "pcp",
+        "framesync": false,
+        "M_gaussian": 27,
+        "m_embedded": 3,
+        "k_nearest": 0.04,
+        "Mp_adaptive": 28,
+        "offset_thres": 0.05,
+        "bound_norm_feats": Infinity,
+        "dirichlet": false,
+        "xmeans": false,
+        "k": 4,
+        "2dfmc_offset": 4,
+        "label_norm_feats": Infinity,
+        "label_norm_floor": 0.1,
+        "label_norm_min_db": -80,
+        "hier": false
+      },
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 180.0,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}
