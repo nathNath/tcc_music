@@ -3,7 +3,7 @@ from __future__ import print_function
 import msaf
 
 # 1. Select audio file
-ds_path = "C:/Users/Nath/OneDrive/Área de Trabalho/tcc/msaf-data/msaf-data-extracted/top50Spotify/audio/05-un-x100to.mp3"
+ds_path = "path/to/your/mp3/file.mp3"
 
 # 2. Segment the file using the default MSAF parameters (this might take a few seconds)
 boundaries, labels = msaf.process(ds_path, labels_id="scluster", plot=True)
@@ -17,7 +17,7 @@ msaf.io.write_mirex(boundaries, labels, out_file)
 
 # 4. Evaluate the results
 try:
-    evals = msaf.eval.process(ds_path, labels_id="scluster", save=True, out_file="results/laplacian/05-un-x100to.csv")
+    evals = msaf.eval.process(ds_path, labels_id="scluster", save=True, out_file="results/algorithm/song.csv")
     print('Process evaluation finished')
     # print(evals)
 except msaf.exceptions.NoReferencesError:
